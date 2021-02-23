@@ -1,5 +1,3 @@
-![Tools Stopmotion](images/animation-stopmotion-tools-3oKIPqsXYcdjcBcXL2.gif)
-
 # Housing Analysis Project
 
 **Author**: Sierra Stanton
