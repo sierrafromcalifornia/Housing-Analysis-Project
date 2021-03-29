@@ -9,7 +9,7 @@
 
 This project analyses the housing industry as we compile valuable intel for homeowners considering whether home improvement projects will add value to the sale value of their homes. We have been charged with helping a client in King County, WA forecast the potential monetary effects of particular home improvement projects in their county. We'll use X datasets to TBD.
 
-![Home Improvement](/images/90s-home-improvement-tim-allen-8Rf3xSwC1R39u.gif)
+![Home Improvement](/references/images/90s-home-improvement-tim-allen-8Rf3xSwC1R39u.gif)
 
 
 ## This Repository
