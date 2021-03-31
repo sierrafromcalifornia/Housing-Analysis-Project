@@ -71,18 +71,12 @@ The above four data sets were imported and run through analysis. We also choose 
 
 This image shows which particular home features are most proven to affect the resulting sales price of a home.
 
-## Modeling
-
-
-
 ## Methods & Results
 
 We extracted and cleaned residential building records in order to build increasingly effective linear regression models that infer the relationships between elements of homes and their associated prices. We also compared which elements had the most dramatic effect on said prices in order to help our client properly advise home owners.
 
 
 ## Conclusion
-
-TODO: add conclusion.  How does your model answer the business question?
 
 * THE TOTAL SQUARE FOOTAGE OF A HOME IS PROVEN TO HAVE THE LARGEST BEARING ON THE HOMES RESULTING SALES PRICE
 * THE DISTRICT OF EACH RESIDENTIAL HOME SHOWS TO BE INSTRUMENTAL IN DETERMINING THE RANGE OF SALES PRICE FOR A HOME, TO THE EXTENT THAT HOME PROJECTS COULD COST MUCH MORE THAN THE POTENTIAL SALES PRICE BUMP
@@ -95,6 +89,6 @@ TODO: add conclusion.  How does your model answer the business question?
 
 ## For More Information
 
-EMAIL: stanton.sierraerin@gmail.com
-GITHUB: @sierrafromcalifornia
-LINKEDIN: linkedin.com/in/stantonsierra
+* EMAIL: stanton.sierraerin@gmail.com
+* GITHUB: @sierrafromcalifornia
+* LINKEDIN: linkedin.com/in/stantonsierra
