@@ -65,7 +65,7 @@ Data will be used from the following:
 
 ## Data Preparation
 
-TODO: add data preparation (which can be quite brief, but make sure you explain any dropped records)
+The above four data sets were imported and run through analysis. We also choose to drop all rows without the associated sales price data. 
 
 ![Correlation](/references/images/home-attributes-correlation.png)
 
@@ -73,7 +73,7 @@ This image shows which particular home features are most proven to affect the re
 
 ## Modeling
 
-TODO: add modeling.  What are the features of your final model?
+
 
 ## Methods & Results
 
