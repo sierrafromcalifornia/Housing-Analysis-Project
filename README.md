@@ -70,7 +70,7 @@ TODO: add data understanding, including at least 3 high-quality visualizations
 
 TODO: add data preparation (which can be quite brief, but make sure you explain any dropped records)
 
-![Correlation](/references/images/home-attributes-correlation)
+![Correlation](/references/images/home-attributes-correlation.png)
 
 This image shows which particular home features are most proven to affect the resulting sales price of a home.
 
