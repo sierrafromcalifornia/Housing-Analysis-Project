@@ -57,14 +57,22 @@ Your task is to build a linear regression model to represent home sale prices in
 
 ## Data Understanding
 
-Data will be used from the following sources:
-*
+Data will be used from the following:
+* **Parcel Records** - shows us details regarding each unit of land that has been created by a partitioning of land
+* **Residential Building Records** - shows us a breakdown of attributes pertaining to building records
+* **Real Property Sale Records** - details land, everything that is permanently attached to the land, and all of the rights of ownership
+* **Look Up** - shows us serves as a dictionary, providing two sets of identifying numbers that equate to real-world information about land.
+
 
 TODO: add data understanding, including at least 3 high-quality visualizations
 
 ## Data Preparation
 
 TODO: add data preparation (which can be quite brief, but make sure you explain any dropped records)
+
+![Correlation](/references/images/home-attributes-correlation)
+
+This image shows which particular home features are most proven to affect the resulting sales price of a home.
 
 ## Modeling
 
