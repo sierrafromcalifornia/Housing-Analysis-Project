@@ -41,7 +41,6 @@ This project analyses the housing industry as we compile valuable intel for home
 
 ### Setup Instructions
 
-TODO: add setup instructions (e.g. the name of the Conda environment file)
 
 ## Business Understanding
 
@@ -64,8 +63,6 @@ Data will be used from the following:
 * **Look Up** - shows us serves as a dictionary, providing two sets of identifying numbers that equate to real-world information about land.
 
 
-TODO: add data understanding, including at least 3 high-quality visualizations
-
 ## Data Preparation
 
 TODO: add data preparation (which can be quite brief, but make sure you explain any dropped records)
@@ -80,11 +77,16 @@ TODO: add modeling.  What are the features of your final model?
 
 ## Methods & Results
 
-TODO: add evaluation.  How well does your model meet the assumptions of linear regression?
+We extracted and cleaned residential building records in order to build increasingly effective linear regression models that infer the relationships between elements of homes and their associated prices. We also compared which elements had the most dramatic effect on said prices in order to help our client properly advise home owners.
+
 
 ## Conclusion
 
 TODO: add conclusion.  How does your model answer the business question?
+
+* THE TOTAL SQUARE FOOTAGE OF A HOME IS PROVEN TO HAVE THE LARGEST BEARING ON THE HOMES RESULTING SALES PRICE
+* THE DISTRICT OF EACH RESIDENTIAL HOME SHOWS TO BE INSTRUMENTAL IN DETERMINING THE RANGE OF SALES PRICE FOR A HOME, TO THE EXTENT THAT HOME PROJECTS COULD COST MUCH MORE THAN THE POTENTIAL SALES PRICE BUMP
+* ENCLOSED PORCHES ARE MUCH LESS POPULAR THAN OPEN PORCHES AND ARE NOT RECOMMENDED FOR MONETARY GAIN
 
 ## Next Steps
 
