@@ -34,11 +34,6 @@ This project analyses the housing industry as we compile valuable intel for home
     └── figures      <-- Generated graphics and figures to be used in reporting
 ```
 
-### Quick Links
-
-1. [Final Analysis Notebook](notebooks/exploratory/final_notebook.ipynb)
-2. [Presentation Slides](reports/presentation.pdf)
-
 ## Business Understanding
 
 A client in King County, WA wants to advise homeowners on home improvement projects that will add to the sale value of their homes.
